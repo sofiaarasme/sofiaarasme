@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Sofía Arasme
 
-I'm a Computer Engineering student passionate about building full-stack web applications with clean architecture, functional UI, and optimized databases. I enjoy working with technologies like **Django**, **React**, **PostgreSQL**, and more.
+A Computer Engineering student at UCAB passionate about building full-stack web applications with clean architecture, functional UI, and optimized databases. I enjoy working with technologies like **Django**, **React**, **PostgreSQL**, and more.
 
 ### 🚀 About Me
 
@@ -9,6 +9,7 @@ I'm a Computer Engineering student passionate about building full-stack web appl
 - 🧩 Familiar with clean architecture principles, especially **Hexagonal Architecture**, **Desing Patterns** and **Domain-Driven Desing**.
 - 🛠️ Skilled in SQL optimization, testing, version control, and teamwork using Agile tools like Jira and Trello.
 - 🌱 Constantly learning and improving in DevOps, cloud deployments, and advanced data modeling.
+- 📊 Comfortable in designing and implementing robust **ETL pipelines** for transforming and validating large-scale data from diverse sources, with BI integrations, and data visualizations.
 
 ### 🧰 Tech stack & tools
 
@@ -25,8 +26,8 @@ I'm a Computer Engineering student passionate about building full-stack web appl
 
 ### 📈 Estadísticas de GitHub
 
-![Sofi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofiarasme&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiarasme&layout=compact&theme=github_dark)
+![Sofi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofiaarasme&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaarasme&layout=compact&theme=github_dark)
 
 ---
 
