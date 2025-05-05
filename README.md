@@ -8,7 +8,7 @@ A Computer Engineering student at UCAB passionate about building full-stack web 
 - 🧠 Experienced in designing and implementing backend services using **Django** and **NestJS**, and creating dynamic, responsive UIs with **React**.
 - 🧩 Familiar with clean architecture principles, especially **Hexagonal Architecture**, **Desing Patterns** and **Domain-Driven Desing**.
 - 🛠️ Skilled in SQL optimization, testing, version control, and teamwork using Agile tools like Jira and Trello.
-- 📊 Comfortable in designing and implementing robust **ETL pipelines** for transforming and validating large-scale data from diverse sources including BI integrations.
+- 📊 Comfortable designing and implementing robust **ETL pipelines** for transforming and validating large-scale data from diverse sources including BI integrations.
 - 🌱 Constantly learning and improving in DevOps, cloud deployments, and advanced data modeling.
 
 ### 🧰 Tech stack & tools
@@ -25,9 +25,7 @@ A Computer Engineering student at UCAB passionate about building full-stack web 
 
 ### 📈 Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaarasme&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sofiaarasme&theme=github-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaarasme&layout=compact&theme=github_dark)  ![GitHub Streak](https://streak-stats.demolab.com?user=sofiaarasme&theme=github-dark)
 
 ---
 
