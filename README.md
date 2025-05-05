@@ -14,20 +14,20 @@ A Computer Engineering student at UCAB passionate about building full-stack web 
 ### 🧰 Tech stack & tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ### 📈 Estadísticas de GitHub
 
-![Sofi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofiaarasme&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaarasme&layout=compact&theme=github_dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sofiarasme&theme=github-compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=sofiarasme&theme=github-dark)
 
 ---
 
