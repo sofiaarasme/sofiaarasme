@@ -2,7 +2,7 @@
 
 A Computer Engineering student at UCAB passionate about building full-stack web applications with clean architecture, functional UI, and optimized databases. I enjoy working with technologies like **Django**, **React**, **PostgreSQL**, and more.
 
-### 🚀 About Me
+### 🚀 About me
 
 - 💼 I’ve worked on multiple academic and freelance projects focused on inventory management, e-commerce platforms, user/role systems, and data analytics.
 - 🧠 Experienced in designing and implementing backend services using **Django** and **NestJS**, and creating dynamic, responsive UIs with **React**.
@@ -26,6 +26,7 @@ A Computer Engineering student at UCAB passionate about building full-stack web 
 ### 📈 Estadísticas de GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaarasme&layout=compact&theme=github_dark)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=sofiaarasme&theme=github-dark)
 
 ---
