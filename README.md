@@ -23,7 +23,7 @@ A Computer Engineering student at UCAB passionate about building full-stack web 
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📈 GitHub Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaarasme&layout=compact&theme=github_dark)  ![GitHub Streak](https://streak-stats.demolab.com?user=sofiaarasme&theme=github-dark)
 
