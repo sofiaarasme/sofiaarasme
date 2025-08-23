@@ -26,7 +26,7 @@ A Computer Engineering student at UCAB passionate about building full-stack web 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Soundcharts&logoColor=black)
 <!-- DevOps & Cloud -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-66F1C2?style=flat&logo=apacheairflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-66F1C2?style=flat&logo=apacheairflow&logoColor=red)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-E97627?style=flat&logo=iCloud&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-232F3E?style=flat&logo=Tailscale&logoColor=white)
