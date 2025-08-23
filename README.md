@@ -4,12 +4,12 @@ A Computer Engineering student at UCAB passionate about building full-stack web 
 
 ### 🚀 About me
 
-- 💼 I’ve worked on multiple academic and freelance projects focused on inventory management, e-commerce platforms, user/role systems, and data analytics.
+- 💼 I’ve worked on multiple academic and freelance projects focused on inventory management, e-commerce platforms, user/role systems and data analytics.
 - 🧠 Experienced in designing and implementing backend services using **Django** and **NestJS**, and creating dynamic, responsive UIs with **React**.
 - 🧩 Familiar with clean architecture principles, especially **Hexagonal Architecture**, **Desing Patterns** and **Domain-Driven Desing**.
 - 🛠️ Skilled in SQL optimization, testing, version control, and teamwork using Agile tools like Jira and Trello.
 - 📊 Comfortable designing and implementing robust **ETL pipelines** for transforming and validating large-scale data from diverse sources including BI integrations.
-- 🌱 Constantly learning and improving in DevOps, cloud deployments, and advanced data modeling.
+- 🌱 Constantly learning and improving in DevOps, cloud deployments and advanced data modeling.
 
 ### 🧰 Tech stack & tools
 
@@ -26,7 +26,7 @@ A Computer Engineering student at UCAB passionate about building full-stack web 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Soundcharts&logoColor=black)
 <!-- DevOps & Cloud -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-66F1C2?style=flat&logo=apacheairflow&logoColor=red)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-66F1C2?style=flat&logo=apacheairflow&logoColor=black)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-E97627?style=flat&logo=iCloud&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-232F3E?style=flat&logo=Tailscale&logoColor=white)
